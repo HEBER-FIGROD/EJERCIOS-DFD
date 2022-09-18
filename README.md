@@ -173,6 +173,10 @@ S*S
 
 ### Ejercicio 9. PREGUNTE EL AÑO DE NACIMIENTO DE UNA PERSONA Y CALCUE SU EDAD
 
+#### 9.1 ANÁLISIS
+SE NECESITA UTILZAR EL SIMBOLO DE SALIDA PARA PEDIRLE AL USUARIO QUE NOS DE SU AÑO DE NACIMIENTO, DESPUES SE UTILIZA EL SIMBOLO DE ENTRADA PARA DIJITAR LOS DOS NUMEROS, POSTERIORMENTE SE UTILIZA EL SIMBOLO DE PROCESO PARA ASIGNAR UNA VARIABLE A LA SUMA DE ESOS DOS NUMEROS, Y FINALMENTE UTILIZAR EL SIMBOLO DE SALIDA PARA IMPRIMIR LA MULIPLICACION DE LA SUMA DE LOS NUMEROS POR LA SUMA DE LOS NUMEROS.   
+
+
 [![9.jpg](https://i.postimg.cc/GtdzyKpJ/9.jpg)](https://postimg.cc/2b94p4hV)
 
 
@@ -197,8 +201,20 @@ S*S
 
 ### Ejercicio 13. EL RESULTADO DE LA SUMA DE LOS NUMEROS NATURALES DEL 1 AL 10
 
-[![13.jpg](https://i.postimg.cc/T2jQVzgV/13.jpg)](https://postimg.cc/nMzvZwdr)
-
+[![13.jpg](https://i.postimg.cc/BnD3jY8B/13.jpg)](https://postimg.cc/CRFXt4sR)
+#### 13.3 PRUEBA DE ESCRITORIO
+|cont|s|s=s+cont|cont<=10|c=c+1|
+|---|--|-------|-------|-----|
+|1|0|1|si|2|
+|2|0|2|si|3|
+|3|0|3|si|4|
+|4|0|4|si|5|
+|5|0|5|si|6|
+|6|0|6|si|7|
+|7|0|7|si|8|
+|8|0|8|si|9|
+|9|0|9|si|10|
+10|0|10|no|
 
 
 ### Ejercicio 14. GENERE NUMEROS PARES DE 1 AL 10
